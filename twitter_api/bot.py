@@ -1,9 +1,10 @@
 import sys
 import time
 import tweepy
+import json
 
 fin = open("file.txt", "r") # Opening the source text.
-with open('secret.json') as data_file:  # Opening the secret file (contains tokens)
+with open('config.json') as data_file:  # Opening the secret file (contains tokens)
     secret = json.load(data_file)
 
 # Twitter keys for autentication

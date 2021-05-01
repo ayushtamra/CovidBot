@@ -5,7 +5,7 @@ During this harsh pandemic, many are facing scarcity of beds, oxygen, vaccines a
 ### Solution Statement :
 We came up with a solution to build a twitter bot which basically replies with a auto generated information chunk to all people posting tweets on some famous hashtags meant for Covid-19 resources such as #SOS, #URGENT, #COVID, #COVIDHELP etc.
 
-<img src="covid-req.png" alt="Girl in a jacket" width="400" height="300">
+<img src="covid-req.png" alt="Tweetex" width="400" height="300">
 
 ### What info will be replied by bot ?
 The bot will auto detect the location, hospital name, phone no, and type of resource needed through the tweet and quickly update the person by replying on the same tweet with the nearest possible location of the resource supplier from the database.
